@@ -92,5 +92,3 @@ Produce a machine learning model to diagnose Parkinson’s disease given various
 - Shahbakhi, Mohammad, Danial Taheri Far, and Ehsan Tahami. "Speech Analysis for Diagnosis of Parkinson’s Disease Using Genetic Algorithm and Support Vector Machine."Journal of Biomedical Science and Engineering 07.04 (2014): 147-56. Scientific Research. July 2014. Web. 2 Mar. 2017.
 - "Speech and Communication." Speech and Communication. Parkinson's Disease Foundation, n.d. Web. 22 Mar. 2017.
 - Sriram, Tarigoppula V. S., M. Venkateswara Rao, G. V. Satya Narayana, and D. S. V. G. K. Kaladhar. "Diagnosis of Parkinson Disease Using Machine Learning and Data Mining Systems from Voice Dataset." SpringerLink. Springer, Cham, 01 Jan. 1970. Web. 17 Mar. 2017.
-#   P r e d i c t i o n - o f - P a r k i n s o n - D i s e a s e  
- 
